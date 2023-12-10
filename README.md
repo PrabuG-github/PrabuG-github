@@ -1,6 +1,6 @@
 
 <div align="left">
-<a href="https://app.daily.dev/TheRobinHood" target="__blank">
+<a href="#" target="__blank">
   <img src="" width="256" alt="Prabu G" align="right"/>
   </a>
 </div>
