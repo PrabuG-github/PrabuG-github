@@ -6,7 +6,11 @@
 </div>
 
 ## Hi, I'm Prabu G <img src="https://media.giphy.com/media/5HRdeFIzjV3FMnwd0K/giphy.gif" width="50"> aka Beast
-### I'm a Data scientist, Java Dev, Tech Enthusiast <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
+### I'm a Data scientist, Java Dev, and tech enthusiast. <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
+
+- 🚲 Exploring the world of data 📈
+- 🎓 Improving day by day.
+- ⚖️ There is no perfection, only progression. 
 
 
 ### Connect with me:
