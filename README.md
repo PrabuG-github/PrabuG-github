@@ -14,9 +14,6 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="Prabu G | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" target="_blank" />][youtube]
-[<img align="left" alt="Prabu G | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" target="_blank" />][twitter]
 [<img align="left" alt="Prabu G | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" target="_blank" />][linkedin]
 [<img align="left" alt="Prabu G | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" target="_blank" />][instagram]
 
